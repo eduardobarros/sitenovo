@@ -73,7 +73,7 @@
                   <div class="programacao-abertura-horario" style=" width: 100%; max-width: 700px; margin: auto ;">
                     <div><br><br><span style="display: block; font-family: DasaBold; border-bottom: 1px solid #9E76B4; font-size: 24px; padding-bottom: 10px; margin-bottom: 10px;">19h</span> Abertura </div>
                     <div>
-                      <br><br><span style="display: block; font-family: DasaBold; border-bottom: 1px solid #9E76B4; font-size: 24px; padding-bottom: 10px; margin-bottom: 10px;">19h30</span> Aula Magna conduzida por Dr. Gustavo Fernandes, Vice Presidente do Congresso<br> <span style="font-size: 13px;">Oncologista Clínico e Hematologista - CRM 16558/DF - Diretor nacional da Dasa Oncologia</span>
+                      <br><br><span style="display: block; font-family: DasaBold; border-bottom: 1px solid #9E76B4; font-size: 24px; padding-bottom: 10px; margin-bottom: 10px;">19h30</span> Aula Magna sobre os 10 anos da Imunoterapia conduzida <br>por Dr. Gustavo Fernandes, Vice Presidente do Congresso<br> <span style="font-size: 13px;">Oncologista Clínico e Hematologista - CRM 16558/DF - Diretor nacional da Dasa Oncologia</span>
                       <div class="mensagem-personas-item" style="margin: auto;">
                         <img src="assets/img/personas/dr-gustavo-fernandes-co-chair.webp" alt="Dr. Gustavo Fernandes">
                       </div>
@@ -130,7 +130,7 @@
 
                   <h4>Tratamento da doença RH+ avançada após falha dos inibidores de CDK4/6</h4>
                   <p class="programacao-conteudo-horario">Duração: 09:20 - 10:00 min.</p>
-                  <p>Palestrante: ADITYA BARDIA Internacional</p>
+                  <p>Palestrante: <span style="color: red">ADITYA BARDIA INTERNACIONAL</span></p>
 
 
                   <h3 class="programacao-conteudo-h3-intervalo">10h00 às 10h30- Intervalo</h3>
@@ -179,7 +179,7 @@
 
                   <h4>Impacto do tratamento oncológico em sexualidade</h4>
                   <p class="programacao-conteudo-horario">Duração: 14:15-14:30 min.</p>
-                  <p>Palestrante: ANDRESSA</p>
+                  <p>Palestrante: ANDRESSA MELINA SEVERINO TEIXEIRA</p>
 
                   <h4>Rastreamento Oncológico na Mulher Trans</h4>
                   <p class="programacao-conteudo-horario">Duração: 14:30-14:45 min.</p>
@@ -194,7 +194,7 @@
 
                   <h4>Vacinação contra HPV: o dia depois da incorporação da nonavalente?</h4>
                   <p class="programacao-conteudo-horario">Duração: 15:15 -15:30 min.</p>
-                  <p>Palestrante: MARIA ISABEL</p>
+                  <p>Palestrante: MARIA ISABEL DE MORAES PINTO</p>
 
                   <h4>Saúde da mulher e o Metaverso</h4>
                   <p class="programacao-conteudo-horario">Duração: 15:30 15:45 min.</p>
@@ -272,7 +272,7 @@
 
                   <h4>Selecionando o melhor paciente para cirurgia sublobar</h4>
                   <p class="programacao-conteudo-horario">Duração: 08:15 -08:25 min.</p>
-                  <p>Palestrante: A DEFINIR</p>
+                  <p>Palestrante: IURY MELO</p>
 
                   <h4>SBRT na doença inicial</h4>
                   <p class="programacao-conteudo-horario">Duração: 08:25 -08:35 min.</p>
@@ -340,7 +340,7 @@
 
                   <h4>Desafios cirúrgicos após imunoterapia neoadjuvante</h4>
                   <p class="programacao-conteudo-horario">Duração: 11:55 -12:05 min.</p>
-                  <p>Palestrante: A definir</p>
+                  <p></p>
 
                   <h4>Discussão</h4>
                   <p class="programacao-conteudo-horario">Duração: 12:05 -12:30 min.</p>
@@ -377,13 +377,15 @@
                   <h4>Discussão</h4>
                   <p class="programacao-conteudo-horario">Duração: 14:50 -15:00 min.</p>
 
+                  <!--
                   <h4>Inteligencia Artificial na radiologia torácica</h4>
                   <p class="programacao-conteudo-horario">Duração: 15:00 -15:30 min.</p>
                   <p>Palestrante: A definir</p>
+                  -->
 
                   <h4>Diagnósticos diferenciais de lesões pulmonares</h4>
                   <p class="programacao-conteudo-horario">Duração: 15:30 -16:00 min.</p>
-                  <p>Palestrante: ISABELA SILVA MULLER</p>
+                  <p>Palestrante: <span style="color: red">ISABELA SILVA MULLER - INTERNACIONAL</span></p>
 
 
                   <h3 class="programacao-conteudo-h3-intervalo">16h00 às 16h30 - Intervalo</h3>
@@ -458,7 +460,7 @@
 
                   <h4>Tratamento dos tumores localmente avançados do reto</h4>
                   <p class="programacao-conteudo-horario">Duração: 09:30 -09:45 min.</p>
-                  <p>Palestrante: JULIANA FLORINDA DE MENDONÇA REGO</p>
+                  <p>Palestrante: <span class="color: red">JUAN MANOELA O’CONNOR - INTERNACIONAL</span></p>
 
                   <h4>Perguntas</h4>
                   <p class="programacao-conteudo-horario">Duração: 09:45 -10:00 min.</p>
@@ -748,15 +750,15 @@
 
                   <h4>Mapeamento fotográfico digital: as indicações e as limitações</h4>
                   <p class="programacao-conteudo-horario">10 min</p>
-                  <p>Palestrante: João Avancini</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">João Avancini</span></p>
 
                   <h4>Como escolher a Terapia Adjuvante</h4>
                   <p class="programacao-conteudo-horario">10 min</p>
-                  <p>Palestrante: Juliana Ominelli</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Juliana Ominelli</span></p>
 
                   <h4>Estamos prontos para a terapia neoadjuvante?</h4>
                   <p class="programacao-conteudo-horario">10 min</p>
-                  <p>Palestrante: Caio Dabus</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Caio Dabus</span></p>
                   <p><br><br></p>
 
 
@@ -764,13 +766,13 @@
 
                   <h4>Escolha da primeira linha no paciente BRAF mutado</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min</p>
-                  <p>Palestrante: Ludmila Mineiro</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Ludmila Mineiro</span></p>
                   <h4>Manejo de eventos adversos relacionados à terapia-alvo e imunoterapia</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min</p>
-                  <p>Palestrante: Iuri Amorim</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Iuri Amorim</span></p>
                   <h4>Discussão Melanoma</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min</p>
-                  <p>Moderação Natalia Fraile </p>
+                  <p>Moderação: <span style="text-transform: uppercase;">Natalia Fraile </span></p>
                   <p><br><br></p>
 
 
@@ -778,7 +780,7 @@
 
                   <h4>Qual é o limite da cirurgia?</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min</p>
-                  <p>Palestrante: Vitor Carmine</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Vitor Carmine</span></p>
                   <h4>Existe papel para neoadjuvância em CEC e CBC?</h4>
                   <p><br><br></p>
 
@@ -786,59 +788,19 @@
 
                   <h4>Qual a melhor estratégia para análise molecular dos sarcomas</h4>
                   <p class="programacao-conteudo-horario">Duração: 10min</p>
-                  <p>Palestrante: Dr Felipe D`Almeida Costa</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Felipe D`Almeida Costa</span></p>
                   <h4>Quando necessário o tratamento adjuvante?</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min)</p>
-                  <p>Palestrante: Rafael Schmerling</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Rafael Schmerling</span></p>
                   <h4>Como virão as novas terapias?</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min)</p>
-                  <p>Palestrante: Rafael Schmerling</p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Rafael Schmerling</span></p>
                   <h4>Discussão: Sarcomas</h4>
                   <p class="programacao-conteudo-horario">Duração: 10 min</p>
-                  <p><br><br></p>
+                  <p>Palestrante: NATALIA FRAILE</p>
 
 
 
-                  <!-- 
-
-                  <h4>Caso clínico</h4>
-                  <p class="programacao-conteudo-horario">Duração: 1 min. </p>
-                  <p>Palestrante: Rafael Ribeiro ou Vitor Carmine</p>
-
-                  <h4>Inteligencia artificial:como a ferramenta pode auxiliar no diagnóstico inicial</h4>
-                  <p class="programacao-conteudo-horario">Duração: 10 min. </p>
-                  <p>Palestrante: Laryssa Faiçal</p>
-
-                  <h4>Como escolher a Terapia Adjuvante</h4>
-                  <p class="programacao-conteudo-horario">Duração: 10 min. </p>
-                  <p>Palestrante: Juliana Ominelli</p>
-
-                  <h4>Estamos prontos para a terapia neoadjuvante?</h4>
-                  <p class="programacao-conteudo-horario">Duração: 10 min. </p>
-                  <p>Palestrante-Caio Dabus</p>
-
-                  <p class="programacao-conteudo-tema">Melanoma avançado</p>
-
-                  <h4>Caso Clínico</h4>
-                  <p class="programacao-conteudo-horario">Duração: 1 min. </p>
-                  <p>Apresentação: Iuri Amorim</p>
-
-                  <h4>Critérios para escolha do sequenciamento da terapia.</h4>
-                  <p class="programacao-conteudo-horario">Duração: 10 min. </p>
-                  <p>Palestrante: A definir</p>
-
-                  <h4>Papel da Medicina Nuclear no estadiamento, controle de resposta e seguimento.</h4>
-                  <p class="programacao-conteudo-horario">Palestrante: Dr Dalton dos Anjos</p>
-                  <p></p>
-                  <h4>Manejo de eventos adversos relacionados à terapia-alvo</h4>
-                  <p class="programacao-conteudo-horario">Duração: 5 min. </p>
-                  <p>Palestrante: Maria das Graças Leto</p>
-
-                  <h4>Manejo de eventos adversos à imunoterapia</h4>
-                  <p class="programacao-conteudo-horario">Duração: 5 min. </p>
-                  <p>Palestrante: Maria das Graças Leto</p>
-
-                  -->
 
 
                   <h3 class="programacao-conteudo-h3-intervalo">10h00 às 10h30 - Intervalo</h3>
@@ -869,19 +831,19 @@
                   <p>Moderador: ANDRÉ POTENZA</p>
 
                   <h4>Cancer de tireoide na era da medicina de precisão visão do patologista</h4>
-                  <p>Palestrante: Ana Carolina </p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Ana Carolina</span></p>
                   
                   <h4>Tratamento oncológico Câncer de tireóide</h4>
-                  <p>Palestrante: Denyei Nakazato </p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Denyei Nakazato</span></p>
                   
                   <h4>Papel da Medicina Nuclear no carcinoma iodo refratário </h4>
-                  <p>Palestrante: Dalton dos Anjos </p>
+                  <p>Palestrante:<span style="text-transform: uppercase;"> Dalton dos Anjos</span></p>
                   
                   <h4>Cirurgia</h4>
-                  <p>Palestrante: Fabio Capelli </p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Fabio Capelli</span></p>
                   
                   <h4>Inovação </h4>
-                  <p>Palestrante: Marcio Garcia, Adriano Cury </p>
+                  <p>Palestrante: <span style="text-transform: uppercase;">Marcio Garcia, Adriano Cury</span></p>
                   
                   <h4>Perguntas </h4>
 
